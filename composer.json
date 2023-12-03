@@ -1,5 +1,5 @@
 {
-  "name": "superbalist/laravel-google-cloud-storage",
+  "name": "yodawy/laravel-google-cloud-storage",
   "description": "A Google Cloud Storage filesystem for Laravel",
   "license": "MIT",
   "authors": [
